@@ -2,13 +2,13 @@
 
 int ikiyebolme(){
 
-    int sayi, sonuc;
+    float sayi, sonuc;
 
     printf("Lutfen bir sayi giriniz:");
-    scanf_s("%d", &sayi);
+    scanf_s("%f", &sayi);
 
     sonuc = sayi / 2;
 
-    printf("Sonuc: %d", sonuc);
+    printf("Sonuc: %1.1f", sonuc);
 
 }
