@@ -1,0 +1,3 @@
+C:/Users/Bilge Can/CLionProjects/MathProcess/cmake-build-debug/CMakeFiles/MathProcess.dir
+C:/Users/Bilge Can/CLionProjects/MathProcess/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bilge Can/CLionProjects/MathProcess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
